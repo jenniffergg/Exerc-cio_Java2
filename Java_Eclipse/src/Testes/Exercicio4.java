@@ -21,9 +21,10 @@ public class Exercicio4 {
 		diai = (dia % ano) % mes;
 		
 		System.out.println(anoi + " Ano (s)");
-		System.out.println(mesi + " Mês (es)");
+		System.out.println(mesi + " MÃªs (es)");
 		System.out.println(diai + " Dia (s)" );
 
 	}
 
 }
+//https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
